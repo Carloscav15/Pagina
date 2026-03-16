@@ -1,7 +1,7 @@
 const SUPABASE_URL = "TU_URL_SUPABASE";
 const SUPABASE_KEY = "TU_ANON_PUBLIC_KEY";
 
-const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+const supabase = window.supabase.createClient(https://ybcxrvjdlxiloedbddtj.supabase.co, sb_publishable_0yYRWcIRozKbe5WZ5dXChQ_PgeA_1qs);
 
 const form = document.getElementById("formulario");
 const mensaje = document.getElementById("mensaje");
